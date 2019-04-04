@@ -7,6 +7,7 @@
 《Top 10 ES6 Features Must Know》
 #### 3.react
 《深入浅出React和Redux》
+《React 实战：设计模式和最佳实践》
 《dva知识导图》
 #### 4.https
 《深入浅出HTTPS工作原理》
